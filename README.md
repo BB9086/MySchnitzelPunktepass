@@ -2,6 +2,14 @@
 
 **Available in Serbia, Austria, Germany and Switzerland**
 
+Google Play Store: https://play.google.com/store/apps/details?id=mvdata.foodjet.mySchnitzelV2 <br />
+App Store: https://apps.apple.com/us/app/myschnitzelpunktepass/id1572873813#?platform=iphone
+
+**Test Credentials**
+
+User name: perica@gmail.com <br />
+Password: test1234
+
 **About this app:**  MySchnitzel Punktepass is a coupon platform where users can find coupons from different stores nearby. The app has a map integrated for easy access of the stores. Furthermore users can add stores to their favorite and can get notified of new promotions and coupons. Push notifications are also being used to notify the user when the bill is generated. Users get reward points with every purchase in the restaurant. Users can also share the application with other users and get additional reward points based on that. 
 
 ## Phone screenshots
